@@ -230,7 +230,6 @@ def make_plots(X, result):
 # This assignment was completed with AI assistance. Claude drafted
 # the derivations, code, plots, and write-up. All Part 1-3 tasks are completed.
 # External resources: NumPy and Matplotlib documentation only.
-# [Edit this section to describe your own contribution and what you checked.]
 
 if __name__ == '__main__':
     np.set_printoptions(precision=4, suppress=True)
